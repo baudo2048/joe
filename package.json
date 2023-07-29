@@ -1,0 +1,25 @@
+{
+  "name": "joe",
+  "version": "1.0.0",
+  "description": "joe cli",
+  "main": "joe.js",
+  "bin": {
+    "joe": "joe.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baudo2048/joe.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "baudo2048",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baudo2048/joe/issues"
+  },
+  "homepage": "https://github.com/baudo2048/joe#readme"
+}
